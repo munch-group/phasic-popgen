@@ -9,12 +9,12 @@ pixi run init
 
 ## Incomporate updates changes to upstream fork
 
-If you forked the `munch-group-project` rather than using it as template, you can incorporate changes/fixes made to `munch-group-project`.
+If you forked the `phasic-popgen` rather than using it as template, you can incorporate changes/fixes made to `phasic-popgen`.
 
 Add upstream if not already added
 
 ```bash
-git remote add upstream https://github.com/munch-group/munch-group-project.git
+git remote add upstream https://github.com/munch-group/phasic-popgen.git
 ```
 
 Fetch upstream changes
